@@ -4,6 +4,7 @@
 이 때, main() 함수의 x 변수를 출력하여 메인 메모리 할당 상태를 메모리 맵으로 그려보시오.
  */
 
+#include <stdio.h>
 float Pow_function(float number);
 
 int main(void) {
