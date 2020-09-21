@@ -5,9 +5,9 @@
 도박사는 가진 돈을 다 잃거나 목표 금액인 250달러에 도달하면 도박을 중지한다.
 도박사가 목표 금액에 도달하는 확률이 얼마나 되는지를 계산해보자.
 
-`` bets++; : 배팅 횟수 증가
-`` if ((double)rand()/RAND_MAX < 0.5) cash++; : $1를 얻는다
-`` else cash--; $1를 잃는다.
+Hint: bets++; : 배팅 횟수 증가
+Hint: if ((double)rand()/RAND_MAX < 0.5) cash++; : $1를 얻는다
+Hint: else cash--; $1를 잃는다.
  */
 
 #include <stdio.h>

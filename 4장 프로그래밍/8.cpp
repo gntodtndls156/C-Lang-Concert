@@ -3,8 +3,8 @@
 두 점은 사용자로부터 정수로 받는다.
 제곱근의 계산은 math.h에 정의된 sqrt(double x) 함수를 사용한다.
 
-`` 9.0의 제곱근은 다음과 같이 계산할 수 있다. 
-`` double r = sqrt(9.0);
+Hint: 9.0의 제곱근은 다음과 같이 계산할 수 있다. 
+Hint: double r = sqrt(9.0);
  */
 
 #include <stdio.h>
